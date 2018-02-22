@@ -1,6 +1,6 @@
 # whoami
 
-Hey, it's my terminal portfolio. 
+Hey, it's my terminal portfolio. 💥 :bowtie: 😎 ❤️😍
 
 ## Demo
 
