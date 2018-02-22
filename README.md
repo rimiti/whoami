@@ -2,7 +2,6 @@
 
 Hey, it's my terminal portfolio. 
 
-
 ## Demo
 
 <!-- ![Example](https://github.com/rimiti/whoami/blob/master/demo/me.png) -->
@@ -16,5 +15,5 @@ $ node index.js
 
 ## Keep in touch
 
-[Github](https://github.com/rimiti)
-[LinkedIn](https://www.linkedin.com/in/dobairro/)
+- [Github](https://github.com/rimiti)
+- [LinkedIn](https://www.linkedin.com/in/dobairro/)
