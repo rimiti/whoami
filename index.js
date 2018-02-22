@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 function age(dateString) {
     var birthday = new Date(dateString);
     var ageDifMs = Date.now() - birthday.getTime();
